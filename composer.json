@@ -1,5 +1,5 @@
 {
-    "name" 			: "knowthecode/updevtools",
+    "name" 			: "seothemes/updevtools",
     "description" 	: "UpDevTools - A Suite of Developer Tools for WordPress development.",
     "type"          : "wordpress-plugin",
     "keywords" 		: ["wordpress", "wp", "plugin"],
@@ -23,9 +23,6 @@
         "branch-alias": {
             "dev-master": "1.0-dev"
         }
-    },
-    "config": {
-        "vendor-dir": "assets/vendor"
     },
     "minimum-stability": "dev"
 }
