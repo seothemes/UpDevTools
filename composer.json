@@ -1,7 +1,7 @@
 {
     "name" 			: "seothemes/updevtools",
     "description" 	: "UpDevTools - A Suite of Developer Tools for WordPress development.",
-    "type"          : "wordpress-plugin",
+    "type"          : "library",
     "keywords" 		: ["wordpress", "wp", "plugin"],
     "homepage" 		: "https://github.com/KnowTheCode/UpDevTools",
     "license" 		: "GPL-2.0+",
