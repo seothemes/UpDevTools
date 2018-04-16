@@ -51,7 +51,7 @@ function init_constants() {
 function launch() {
 	init_constants();
 
-	require_once( __DIR__ . '/assets/vendor/autoload.php' );
+	require_once( __DIR__ . '/vendor/autoload.php' );
 }
 
 launch();
